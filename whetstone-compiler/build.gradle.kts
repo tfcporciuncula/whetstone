@@ -9,6 +9,7 @@ dependencies {
     implementation(libs.anvilAnnotations)
     implementation(libs.dagger)
     implementation(libs.autoServiceAnnotations)
+    implementation(libs.daggerSpi)
     kapt(libs.autoServiceCompiler)
 }
 

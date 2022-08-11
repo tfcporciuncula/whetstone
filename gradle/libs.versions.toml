@@ -28,6 +28,7 @@ anvilCompilerUtils = { module = "com.squareup.anvil:compiler-utils", version.ref
 anvilGradle = { module = "com.squareup.anvil:gradle-plugin", version.ref = "anvil" }
 dagger = { module = "com.google.dagger:dagger", version.ref = "dagger" }
 daggerCompiler = { module = "com.google.dagger:dagger-compiler", version.ref = "dagger" }
+daggerSpi = { module = "com.google.dagger:dagger-spi", version.ref = "dagger" }
 kotlinGradle = { module = "org.jetbrains.kotlin:kotlin-gradle-plugin", version.ref = "kotlin" }
 truth = { module = "com.google.truth:truth", version.ref = "truth" }
 autoServiceAnnotations = { module = "com.google.auto.service:auto-service-annotations", version.ref = "autoService" }
